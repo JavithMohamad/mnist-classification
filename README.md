@@ -68,7 +68,6 @@ X_test.shape
 single_image= X_train[0]
 single_image.shape
 plt.imshow(single_image,cmap='gray')
-print("Jeswanth 212221230042")
 y_train.shape
 X_train.min()
 X_train.max()
